@@ -7,7 +7,7 @@
         "wordpress"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/laraish/contracts",
+    "homepage": "https://github.com/emboldagency/contracts",
     "support": {
         "issues": "https://github.com/laraish/contracts/issues",
         "source": "https://github.com/laraish/contracts"
@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0.2"
+        "php": "^8.1.0"
     },
     "autoload": {
         "psr-4": {
